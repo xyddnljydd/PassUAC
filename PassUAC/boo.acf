@@ -1,0 +1,4 @@
+interface boo
+{	
+	[async] RAiLaunchAdminProcess();//表明异步调用
+}
